@@ -1,0 +1,19 @@
+{
+  "name": "booksdirectory",
+  "version": "1.0.0",
+  "description": "Exercise ",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Kursat Toklucu",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.12",
+    "update": "^0.7.4"
+  }
+}
